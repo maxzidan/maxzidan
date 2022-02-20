@@ -1,4 +1,4 @@
-### 🐧Linux 
+### 🐧Linux :man_technologist: 
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.vivaolinux.com.br/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/LinuxTips/videos)
@@ -15,9 +15,14 @@
 ### 🧰 Ferramentas
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white" />
   <img align="center" alt="bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img align="center" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=blue" />
+  <img align="center" alt="ansible" src="https://img.shields.io/badge/Ansible-gray?style=for-the-badge&logo=Ansible&logoColor=white" />
+  <img align="center" alt="terraform" src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=Terraform&logoColor=white" />
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 </div><br />
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
